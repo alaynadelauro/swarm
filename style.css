@@ -1,0 +1,11 @@
+.h1{
+    text-shadow: 0px 0px 10px;
+}
+
+body{
+    background-color: black;
+}
+
+.town{
+    background-color:rgba(46, 46, 46, 0.586);
+}
